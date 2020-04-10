@@ -722,10 +722,31 @@ header {
 	margin-bottom: 1.85em
 }
 
-.option li {
-	padding: .3em .85em;
-	color: #fff;
-	margin: .5em .15em
+.modal-title{
+	margin: 18px 0px;
+    line-height: 1.42857143;
+    padding: 0px;
+    background-color: #fff;
+    color: #343434;
+}
+
+.modal-header .close {
+	font-size: 40px;
+    margin-top: -63px;
+}
+
+.modal-body h4{
+	margin: 10px 0px;
+    padding: .68em 1.35em .68em 0.35em;
+    color: #343434;
+    background-color: #fff;
+    font-size: medium;
+}
+
+.modal h6 {
+	color: #343434 !important;
+    margin: 0px !important;
+    padding: .68em 1.35em .68em 0.35em !important;
 }
 
 .price {

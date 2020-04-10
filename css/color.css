@@ -1,1 +1,139 @@
-@charset "UTF-8";a,.price span,h5,h1 span,#subscribe input[type=submit],.contactInfo p i{color:#ff4081}#testimonial .quoteImg img{border:5px solid #ff4081}#slides h3,.btn-primary,.BGprime,h3 span,#serviceList h2 span,.option li:hover,.btn-primary,.otherServices .boxHeading h3,.panel-default>.panel-heading h4 a:before,.btn-dark:hover,.contactInfo h1,a.top,.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus,.navbar-default .navbar-nav>li>a:focus{background-color:#333333}.contactForm .form-control:focus{-webkit-box-shadow:0 0 0 5px rgba(255,64,129,.35);-moz-box-shadow:0 0 0 5px rgba(255,64,129,.35);box-shadow:0 0 0 5px rgba(255,64,129,.35)}.BGprime.opaque,.otherServices ul li .link a{background-color:rgba(255,64,129,.8)}.otherServices .price span,ul.list-default li:before,#serviceList .carousel-indicators li.active:before,.contactInfo p:hover i,.main-menu li:hover>a i{color:#ffc107}#testimonial .comment h6{border-left:6px solid #ffc107}.BGsecondary,#slides .slides-navigation a,#serviceList .carousel-indicators>li.active img,#serviceList .carousel-indicators>li:hover img,.option li,.btn-default,.otherServices .boxHeading h3 span,.member:hover .info,.panel-default>.panel-heading h4.active a:before,#testimonial .carousel-indicators li.active,.galleryImg>a span{background-color:#333333}.BGsblue.opaqueBG,.member .info,.otherServices ul li .link a.large{background-color:rgba(255,193,7,.8)}#testimonial .comment:before{color:#f2f0e6}.BGlight,.services{background-color:#f2f0e6}html,body,div,pe,table,tr,td,th,tbody,tfoot,ul,li,ol,dl,dd,dt,fieldset,blockquote,cite,input,select,textarea,button,a,section,article,aside,header,footer,nav,h1,h2,h3,h4,h6,.phone small{color:#434343}#slides .slide .slide-caption .container h3 span,h3,.BGdark,.phone:hover .BGsecondary,.btn:hover,.middleBox,.btn-dark,.galleryImg,.social ul li a i{background-color:#434343}nav.nav,header.BGdark,.btn:hover{background-color:#333!important}
+@charset "UTF-8";
+a,
+.price span,
+h5,
+h1 span,
+#subscribe input[type=submit],
+.contactInfo p i {
+	color: #ff4081
+}
+
+#testimonial .quoteImg img {
+	border: 5px solid #ff4081
+}
+
+#slides h3,
+.btn-primary,
+.BGprime,
+h3 span,
+#serviceList h2 span,
+.btn-primary,
+.otherServices .boxHeading h3,
+.panel-default>.panel-heading h4 a:before,
+.btn-dark:hover,
+.contactInfo h1,
+a.top,
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>li>a:focus {
+	background-color: #000
+}
+
+.contactForm .form-control:focus {
+	-webkit-box-shadow: 0 0 0 5px rgba(255, 64, 129, .35);
+	-moz-box-shadow: 0 0 0 5px rgba(255, 64, 129, .35);
+	box-shadow: 0 0 0 5px rgba(255, 64, 129, .35)
+}
+
+.BGprime.opaque,
+.otherServices ul li .link a {
+	background-color: rgba(255, 64, 129, .8)
+}
+
+.otherServices .price span,
+ul.list-default li:before,
+#serviceList .carousel-indicators li.active:before,
+.contactInfo p:hover i,
+.main-menu li:hover>a i {
+	color: #ffc107
+}
+
+#testimonial .comment h6 {
+	border-left: 6px solid #ffc107
+}
+
+.BGsecondary,
+#slides .slides-navigation a,
+#serviceList .carousel-indicators>li.active img,
+#serviceList .carousel-indicators>li:hover img,
+.btn-default,
+.otherServices .boxHeading h3 span,
+.member:hover .info,
+.panel-default>.panel-heading h4.active a:before,
+#testimonial .carousel-indicators li.active,
+.galleryImg>a span {
+	background-color: #333333
+}
+
+.BGsblue.opaqueBG,
+.member .info,
+.otherServices ul li .link a.large {
+	background-color: rgba(255, 193, 7, .8)
+}
+
+#testimonial .comment:before {
+	color: #f2f0e6
+}
+
+.BGlight,
+.services {
+	background-color: #f2f0e6
+}
+
+html,
+body,
+div,
+pe,
+table,
+tr,
+td,
+th,
+tbody,
+tfoot,
+ul,
+li,
+ol,
+dl,
+dd,
+dt,
+fieldset,
+blockquote,
+cite,
+input,
+select,
+textarea,
+button,
+a,
+section,
+article,
+aside,
+header,
+footer,
+nav,
+h1,
+h2,
+h3,
+h4,
+h6,
+.phone small {
+	color: #434343
+}
+
+#slides .slide .slide-caption .container h3 span,
+h3,
+.BGdark,
+.phone:hover .BGsecondary,
+.btn:hover,
+.middleBox,
+.btn-dark,
+.galleryImg,
+.social ul li a i {
+	background-color: #434343
+}
+
+nav.nav,
+header.BGdark,
+.btn:hover {
+	background-color: #333!important
+}
