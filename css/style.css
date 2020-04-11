@@ -749,6 +749,7 @@ header {
     font-size: medium;
     font-family: cursive;
     font-size: 27px;
+    text-transform: none;
 }
 
 .modal h6 {
