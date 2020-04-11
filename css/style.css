@@ -701,6 +701,10 @@ header {
 	padding-left: 3em
 }
 
+.serviceInfo h6{
+	margin-top: 2em;
+}
+
 #serviceList h2 span {
 	top: 0;
 	right: auto;
@@ -728,6 +732,8 @@ header {
     padding: 0px;
     background-color: #fff;
     color: #343434;
+    font-family: cursive;
+    font-size: 34px;
 }
 
 .modal-header .close {
@@ -737,16 +743,23 @@ header {
 
 .modal-body h4{
 	margin: 10px 0px;
-    padding: .68em 1.35em .68em 0.35em;
+    padding: .68em 1.35em .68em 0em;
     color: #343434;
     background-color: #fff;
     font-size: medium;
+    font-family: cursive;
+    font-size: 27px;
 }
 
 .modal h6 {
 	color: #343434 !important;
     margin: 0px !important;
-    padding: .68em 1.35em .68em 0.35em !important;
+    padding: .68em 1.35em .68em 0em !important;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 120%;
+    font-family: 'Open sans', sans-serif;
+    border-bottom: 0px !important;
 }
 
 .price {
